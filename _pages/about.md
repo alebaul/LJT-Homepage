@@ -10,7 +10,7 @@ redirect_from:
 ## Personal Details
 
 - **Name:** Junteng Liu
-- **Position:** First-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology
+- **Position:** First-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology
 - **Research Focus:** Natural Language Processing and Machine Learning
 
 I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
