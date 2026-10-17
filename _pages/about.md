@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+## Personal Details
 
-## Research Interests and Skills
+- **Name:** Junteng Liu
+- **Position:** First-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology
+- **Research Focus:** Natural Language Processing and Machine Learning
 
-- Natural Language Processing
-- Machine Learning
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
+I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 ## Academic Background
 
@@ -41,6 +39,14 @@ I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University o
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**, ICML 2024. Co-author. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, NeurIPS 2023. Co-author. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations**, NeurIPS 2023. Co-author. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
+
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Contact Information
 
